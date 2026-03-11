@@ -1,1 +1,0 @@
-# bvmt-prices-auto
